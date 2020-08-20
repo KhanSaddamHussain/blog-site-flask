@@ -1,0 +1,17 @@
+{
+  "parameter":
+  {
+  "local_server": "True",
+    "local_uri":"mysql://root:@localhost/saddamblog",
+    "prod_uri": "mysql://root:@localhost/saddamblog",
+
+    "fb_url": "https://facebook.com/saddablog",
+    "github_url": "https://github.com/KhanSaddamHussain",
+    "twitter_url": "https://twitter.com/khansaddam2016",
+
+    "blog_name": "Saddam Blogs",
+    "blog_theme": "The blogging website by Saddam "
+
+
+  }
+}
