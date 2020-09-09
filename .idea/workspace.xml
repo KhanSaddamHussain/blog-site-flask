@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="281bc696-0cf9-41fb-8982-cedb72888ccb" name="Default Changelist" comment="" />
+    <list default="true" id="281bc696-0cf9-41fb-8982-cedb72888ccb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BlogSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BlogSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/post.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1gFcFVKOoc7ntNJGnvdbjIxIS0z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +35,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -75,32 +90,92 @@
       <option name="presentableId" value="Default" />
       <updated>1597713677615</updated>
     </task>
+    <task id="LOCAL-00001" summary="contact form connected to database">
+      <created>1597889678544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597889678544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="name given to input field inorder to connect it with db">
+      <created>1597889798484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597889798484</updated>
+    </task>
+    <task id="LOCAL-00003" summary="config.jason file added to make this website configrable">
+      <created>1597894675047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597894675047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="contact form connected to database" />
+    <MESSAGE value="name given to input field inorder to connect it with db" />
+    <MESSAGE value="config.jason file added to make this website configrable" />
+    <option name="LAST_COMMIT_MESSAGE" value="config.jason file added to make this website configrable" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1224" height="163" key="GridCell.Tab.0.bottom" timestamp="1597749985943">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1597894670700">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597749985943" />
-    <state width="1224" height="163" key="GridCell.Tab.0.center" timestamp="1597749985943">
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597894670700" />
+    <state width="1259" height="204" key="GridCell.Tab.0.bottom" timestamp="1597909052400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597749985943" />
-    <state width="1224" height="163" key="GridCell.Tab.0.left" timestamp="1597749985943">
+    <state width="1259" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597909052400" />
+    <state width="1259" height="204" key="GridCell.Tab.0.center" timestamp="1597909052400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597749985943" />
-    <state width="1224" height="163" key="GridCell.Tab.0.right" timestamp="1597749985943">
+    <state width="1259" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597909052400" />
+    <state width="1259" height="204" key="GridCell.Tab.0.left" timestamp="1597909052400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597749985943" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1597714969520">
+    <state width="1259" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597909052400" />
+    <state width="1259" height="204" key="GridCell.Tab.0.right" timestamp="1597909052400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597714969520" />
-    <state x="348" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1597739506052">
+    <state width="1259" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597909052400" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1597909052401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597739506052" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597909052401" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1597909052401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597909052401" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1597909052401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597909052401" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1597909052401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597909052401" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1597895910277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597895910277" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1597890050804">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597890050804" />
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1597916973092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597916973092" />
+    <state x="452" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597894928684">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1597894928684" />
+    <state x="216" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597899178582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="216" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1597899178582" />
   </component>
 </project>

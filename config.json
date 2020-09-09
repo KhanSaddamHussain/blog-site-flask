@@ -10,7 +10,11 @@
     "twitter_url": "https://twitter.com/khansaddam2016",
 
     "blog_name": "Saddam Blogs",
-    "blog_theme": "The blogging website by Saddam "
+    "blog_theme": "The blogging website by Saddam ",
+
+    "number_of_post":"5"
+
+
 
 
   }
